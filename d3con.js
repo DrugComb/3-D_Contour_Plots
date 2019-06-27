@@ -1,5 +1,5 @@
 //3-D contour Graphs draw function
-function d3con(bolckid) {
+function d3con(bolckid,drugrow, drugcol)) {
     $.ajax({
         type: "GET",
         url: "graph_3d.php",
