@@ -2,7 +2,7 @@
 function d3con(bolckid, drugrow, drugcol) {
     $.ajax({
         type: "GET",
-        url: "lastupdate/graph3d_test.php",
+        url: "graph_3d.php",
         data: {
             block_id: bolckid
         },
