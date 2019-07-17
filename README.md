@@ -1,4 +1,4 @@
-# 3-D_Contour_Plots
+# 3D_Contour_Plots
 
 This repository contains the JavaScript client code to draw 3D Contour Plots which are drawn using Plotly.js library. 
 
